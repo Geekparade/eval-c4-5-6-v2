@@ -1,0 +1,1 @@
+<!-- formulary with name product, category of product, unity of product, quantity product and price of product -->
